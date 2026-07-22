@@ -1,0 +1,105 @@
+{
+  "ApplicationVersion": "4.1.1.1",
+  "UserName": "rahul",
+  "Date": "2025-06-03 12:28",
+  "FormSettings": {
+    "DimensionsWithColumnsInfo": {
+      "attribute": {
+        "Select": 20,
+        "Name": 50
+      },
+      "iso_name": {
+        "Select": 20,
+        "Name": 50
+      },
+      "user": {
+        "Select": 20,
+        "Name": 50
+      },
+      "commodity": {
+        "Select": 20,
+        "Name": 551
+      },
+      "userconstraint": {
+        "Select": 20,
+        "Name": 50
+      },
+      "sector": {
+        "Select": 20,
+        "Name": 50
+      },
+      "scenario": {
+        "Select": 20,
+        "Name": 534
+      },
+      "varbl": {
+        "Select": 20,
+        "Name": 530
+      },
+      "source_use": {
+        "Select": 20,
+        "Name": 50
+      },
+      "year": {
+        "Select": 20,
+        "Name": 50
+      },
+      "scen_model_framework": {
+        "Select": 20,
+        "Name": 50
+      },
+      "unit": {
+        "Select": 20,
+        "Name": 50
+      },
+      "data_source": {
+        "Select": 20,
+        "Name": 50
+      },
+      "process": {
+        "Select": 20,
+        "Name": 50
+      },
+      "source": {
+        "Select": 20,
+        "Name": 50
+      },
+      "fuel": {
+        "Select": 20,
+        "Name": 50
+      },
+      "model": {
+        "Select": 20,
+        "Name": 50
+      },
+      "tech": {
+        "Select": 20,
+        "Name": 50
+      },
+      "timeslice": {
+        "Select": 20,
+        "Name": 50
+      },
+      "region": {
+        "Select": 20,
+        "Name": 551
+      },
+      "sow": {
+        "Select": 20,
+        "Name": 50
+      },
+      "target": {
+        "Select": 20,
+        "Name": 50
+      },
+      "study": {
+        "Select": 20,
+        "Name": 50
+      },
+      "vintage": {
+        "Select": 20,
+        "Name": 50
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ApplicationVersion": "4.1.2.2",
+  "UserName": "harish",
+  "Date": "2026-01-05 09:56",
+  "FormSettings": {
+    "IsNRGChecked": true,
+    "IsMATChecked": true,
+    "IsDEMChecked": true,
+    "IsUserConstraintChecked": true,
+    "ThreadCount": -1,
+    "IsFillRCompareChecked": true,
+    "IsRunGdx2Veda": true,
+    "None": false,
+    "Times": true,
+    "Osemosys": false
+  }
+}
